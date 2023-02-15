@@ -47,6 +47,9 @@ Graduation Date: September, 2023
 
 - Java
 - NodeJS
+- Shell Script
+- Powershell
+
 
 #### Software tools: 
 
@@ -69,7 +72,7 @@ Graduation Date: September, 2023
 
 ## Certifications
 
-[List any relevant certifications you have earned.]
+List of attained [Certification]. (https://www.linkedin.com/in/avinash-io/details/certifications/)
 
 ## Awards and Honors
 
