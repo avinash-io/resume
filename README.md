@@ -17,24 +17,6 @@ MSc. in Advanced Computer Science, University of hertfordshire
 Location: Hatfield, hertfordshire
 Graduation Date: September, 2023
 
-## Work Experience
-
-### IT Analyst at Tata Consultancy Services (TCS)
-
-[06/2019] - [08/2021]
-
-- [Responsibility or accomplishment]
-- [Responsibility or accomplishment]
-- [Responsibility or accomplishment]
-
-### [Job Title] at [Company Name]
-
-[Month and year of start date] - [Month and year of end date]
-
-- [Responsibility or accomplishment]
-- [Responsibility or accomplishment]
-- [Responsibility or accomplishment]
-
 ## Skills
 
 #### Version control:
