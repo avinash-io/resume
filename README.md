@@ -37,9 +37,35 @@ Graduation Date: September, 2023
 
 ## Skills
 
-#### Skills: 
+#### Version control:
+
+- CVS
+- SVN
+- GIT
+ 
 #### Programming languages: 
+
+- Java
+- NodeJS
+
 #### Software tools: 
+
+###### Operational:
+
+- Winscp
+- Putty
+
+###### Testing:
+
+- SoapUI
+- Postman
+
+###### Editors:
+
+- VSCode
+- Eclipse
+- NetBeans
+
 
 ## Certifications
 
