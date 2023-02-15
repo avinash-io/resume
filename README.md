@@ -37,7 +37,9 @@ Graduation Date: September, 2023
 
 ## Skills
 
-[List your relevant skills here, such as programming languages, software tools, or other abilities that are relevant to the type of work you're seeking.]
+#### Skills: 
+#### Programming languages: 
+#### Software tools: 
 
 ## Certifications
 
