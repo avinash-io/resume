@@ -72,7 +72,7 @@ Graduation Date: September, 2023
 
 ## Certifications
 
-List of attained [Certification]. (https://www.linkedin.com/in/avinash-io/details/certifications/)
+List of attained [Certification](https://www.linkedin.com/in/avinash-io/details/certifications/).
 
 ## Awards and Honors
 
