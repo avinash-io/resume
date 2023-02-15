@@ -19,9 +19,9 @@ Graduation Date: September, 2023
 
 ## Work Experience
 
-### [Job Title] at [Company Name]
+### IT Analyst at Tata Consultancy Services (TCS)
 
-[Month and year of start date] - [Month and year of end date]
+[06/2019] - [08/2021]
 
 - [Responsibility or accomplishment]
 - [Responsibility or accomplishment]
@@ -69,12 +69,17 @@ Graduation Date: September, 2023
 - Eclipse
 - NetBeans
 
+###### Service Management:
+
+- ServiceNow
+- JIRA
+- Trello
 
 ## Certifications
 
-List of attained [Certification](https://www.linkedin.com/in/avinash-io/details/certifications/).
+List any relevant [Certification](https://www.linkedin.com/in/avinash-io/details/certifications/) received.
 
 ## Awards and Honors
 
-[List any relevant awards or honors you have received.]
+List any relevant [awards or honors](https://www.linkedin.com/in/avinash-io/details/honors/) received.
 
