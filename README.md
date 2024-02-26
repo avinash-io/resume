@@ -2,7 +2,7 @@
 
 ## Contact Information
 
-- Email: amenon848@gmail.com
+- Email: amenon848@gmail.com | avinash.menon.in@gmail.com
 - Phone: +44-7826209437 | +91-9567178066
 - LinkedIn: https://www.linkedin.com/in/avinash-io/
 - GitHub: https://github.com/avinash-io/
